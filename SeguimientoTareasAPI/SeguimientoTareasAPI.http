@@ -1,0 +1,6 @@
+@SeguimientoTareasAPI_HostAddress = http://localhost:5239
+
+GET {{SeguimientoTareasAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
