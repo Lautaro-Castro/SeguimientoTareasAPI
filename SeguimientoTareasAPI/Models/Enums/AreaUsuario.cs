@@ -2,7 +2,7 @@ namespace SeguimientoTareasAPI.Models;
 
 using System.ComponentModel;
 //Enumerado sobre las areas que posee la empresa.
-public enum Area
+public enum AreaUsuario
 {
     [Description("Desarrollo")]
     Desarrollo = 1,

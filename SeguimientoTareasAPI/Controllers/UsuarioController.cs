@@ -1,8 +1,13 @@
 using System;
+using Microsoft.AspNetCore.Mvc;
+using SeguimientoTareasAPI.Models;
+using SeguimientoTareasAPI.Helpers;
 
 namespace SeguimientoTareasAPI.Controllers;
 
-public class UsuarioController
+[ApiController]
+[Route("api/[controller]")]
+public class UsuarioController : ControllerBase
 {
-
+    
 }
