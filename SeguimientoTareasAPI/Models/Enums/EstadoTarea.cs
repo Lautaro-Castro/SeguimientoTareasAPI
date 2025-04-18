@@ -1,7 +1,7 @@
 namespace SeguimientoTareasAPI.Models;
 
 using System.ComponentModel;
-//Enumerado que representa el estado actual de la tarea.
+//Enum que representa el estado actual de la tarea.
 public enum EstadoTarea
 {
     [Description("Pendiente")]

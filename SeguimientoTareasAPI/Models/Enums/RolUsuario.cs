@@ -1,7 +1,7 @@
 namespace SeguimientoTareasAPI.Models;
 
 using System.ComponentModel;
-//Enumerado sobre los roles que se le pueden asignar a un Usuario.
+// Enum usado por simplicidad actual. Puede convertirse en tabla relacional si se necesita dinamismo.
 public enum RolUsuario
 {
     [Description("Administrador")]

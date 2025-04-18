@@ -1,9 +1,11 @@
 namespace SeguimientoTareasAPI.Models;
 
 using System.ComponentModel;
-//Enumerado sobre las areas que posee la empresa.
+// Enum usado por simplicidad actual. Puede convertirse en tabla relacional si se necesita dinamismo.
 public enum AreaUsuario
 {
+    [Description("Desarrollo")]
+    Administrador = 0,
     [Description("Desarrollo")]
     Desarrollo = 1,
     [Description("Testing")]

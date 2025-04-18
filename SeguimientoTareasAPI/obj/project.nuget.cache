@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rgmJZ6+Ud5lhvk46lCF8mJXQdD4Yc8auxviYtL0gLhMmG9HUKHMCaW9thj+jCv6dxBzDn4bUCxASnd8dnZUzfg==",
+  "dgSpecHash": "JqkyWzx7bbBbAm+6OE232XW+/yZi3v8CzhAYec9/30WCk4q3HGxYSEcEPa3Azb5saM5SVAvJDGMxL4dG3yFSvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lau\\Desktop\\SeguimientoTareasAPI\\SeguimientoTareasAPI\\SeguimientoTareasAPI\\SeguimientoTareasAPI.csproj",
+  "projectFilePath": "C:\\Users\\Lau\\Desktop\\SeguimientoTareasAPI\\SeguimientoTareasAPI\\SeguimientoTareasAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lau\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.4\\microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",
     "C:\\Users\\Lau\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lau\\Desktop\\SeguimientoTareasAPI\\SeguimientoTareasAPI\\SeguimientoTareasAPI\\SeguimientoTareasAPI.csproj": {}
+    "C:\\Users\\Lau\\Desktop\\SeguimientoTareasAPI\\SeguimientoTareasAPI\\SeguimientoTareasAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lau\\Desktop\\SeguimientoTareasAPI\\SeguimientoTareasAPI\\SeguimientoTareasAPI\\SeguimientoTareasAPI.csproj": {
+    "C:\\Users\\Lau\\Desktop\\SeguimientoTareasAPI\\SeguimientoTareasAPI\\SeguimientoTareasAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lau\\Desktop\\SeguimientoTareasAPI\\SeguimientoTareasAPI\\SeguimientoTareasAPI\\SeguimientoTareasAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Lau\\Desktop\\SeguimientoTareasAPI\\SeguimientoTareasAPI\\SeguimientoTareasAPI.csproj",
         "projectName": "SeguimientoTareasAPI",
-        "projectPath": "C:\\Users\\Lau\\Desktop\\SeguimientoTareasAPI\\SeguimientoTareasAPI\\SeguimientoTareasAPI\\SeguimientoTareasAPI.csproj",
+        "projectPath": "C:\\Users\\Lau\\Desktop\\SeguimientoTareasAPI\\SeguimientoTareasAPI\\SeguimientoTareasAPI.csproj",
         "packagesPath": "C:\\Users\\Lau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lau\\Desktop\\SeguimientoTareasAPI\\SeguimientoTareasAPI\\SeguimientoTareasAPI\\obj\\",
+        "outputPath": "C:\\Users\\Lau\\Desktop\\SeguimientoTareasAPI\\SeguimientoTareasAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lau\\AppData\\Roaming\\NuGet\\NuGet.Config",
