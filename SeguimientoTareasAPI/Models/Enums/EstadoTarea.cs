@@ -6,7 +6,7 @@ public enum EstadoTarea
 {
     [Description("Pendiente")]
     Pendiente = 1,
-    [Description("En Progreso")]
+    [Description("En Ejecución")]
     EnProgreso = 2,
     [Description("Completada")]
     Completada = 3

@@ -4,7 +4,7 @@ using System.ComponentModel;
 // Enum usado por simplicidad actual. Puede convertirse en tabla relacional si se necesita dinamismo.
 public enum AreaUsuario
 {
-    [Description("Desarrollo")]
+    [Description("Administrador")]
     Administrador = 0,
     [Description("Desarrollo")]
     Desarrollo = 1,
